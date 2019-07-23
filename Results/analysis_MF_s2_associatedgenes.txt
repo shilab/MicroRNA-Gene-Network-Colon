@@ -1,0 +1,23 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2783
+GO molecular function complete	Homo sapiens - REFLIST (20996)	upload_1 (1232)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+growth factor activity (GO:0008083)	167	27	9.80	+	2.76	2.71E-02
+receptor ligand activity (GO:0048018)	485	59	28.46	+	2.07	2.46E-03
+receptor regulator activity (GO:0030545)	536	64	31.45	+	2.03	1.34E-03
+calcium ion binding (GO:0005509)	713	75	41.84	+	1.79	1.41E-02
+signaling receptor binding (GO:0005102)	1687	155	98.99	+	1.57	3.37E-04
+molecular function regulator (GO:0098772)	1923	163	112.84	+	1.44	1.57E-02
+protein binding (GO:0005515)	11890	808	697.68	+	1.16	1.53E-06
+binding (GO:0005488)	15185	986	891.02	+	1.11	3.55E-06
+molecular_function (GO:0003674)	17706	1115	1038.95	+	1.07	2.46E-06
+Unclassified (UNCLASSIFIED)	3290	117	193.05	-	.61	0.00E00

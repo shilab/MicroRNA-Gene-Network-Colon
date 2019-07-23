@@ -1,0 +1,37 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1423
+GO cellular component complete	Homo sapiens - REFLIST (20996)	upload_1 (1232)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+endoplasmic reticulum lumen (GO:0005788)	308	40	18.07	+	2.21	2.01E-02
+extracellular matrix (GO:0031012)	503	56	29.51	+	1.90	2.86E-02
+cell surface (GO:0009986)	909	89	53.34	+	1.67	1.40E-02
+plasma membrane region (GO:0098590)	1194	114	70.06	+	1.63	1.98E-03
+neuron projection (GO:0043005)	1322	118	77.57	+	1.52	2.38E-02
+intrinsic component of plasma membrane (GO:0031226)	1727	154	101.34	+	1.52	9.58E-04
+plasma membrane part (GO:0044459)	2915	257	171.05	+	1.50	1.30E-07
+cell projection part (GO:0044463)	1460	128	85.67	+	1.49	2.58E-02
+plasma membrane bounded cell projection part (GO:0120038)	1460	128	85.67	+	1.49	2.58E-02
+neuron part (GO:0097458)	1740	148	102.10	+	1.45	2.15E-02
+integral component of plasma membrane (GO:0005887)	1647	140	96.64	+	1.45	3.53E-02
+plasma membrane bounded cell projection (GO:0120025)	2111	175	123.87	+	1.41	1.20E-02
+cell projection (GO:0042995)	2181	177	127.98	+	1.38	3.12E-02
+extracellular region part (GO:0044421)	3529	277	207.07	+	1.34	1.03E-03
+extracellular space (GO:0005615)	3335	259	195.69	+	1.32	6.34E-03
+extracellular region (GO:0005576)	4343	330	254.84	+	1.29	9.38E-04
+plasma membrane (GO:0005886)	5667	415	332.53	+	1.25	7.89E-04
+cell periphery (GO:0071944)	5786	423	339.51	+	1.25	6.62E-04
+cytoplasmic part (GO:0044444)	9720	647	570.35	+	1.13	3.26E-02
+cytoplasm (GO:0005737)	11591	767	680.13	+	1.13	1.81E-03
+cell (GO:0005623)	17095	1066	1003.10	+	1.06	5.12E-03
+cell part (GO:0044464)	17032	1061	999.40	+	1.06	1.01E-02
+cellular_component (GO:0005575)	18827	1169	1104.73	+	1.06	2.51E-07
+Unclassified (UNCLASSIFIED)	2169	63	127.27	-	.50	0.00E00

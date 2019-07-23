@@ -1,0 +1,40 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2783
+GO molecular function complete	Homo sapiens - REFLIST (20996)	upload_1 (565)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+MHC class II receptor activity (GO:0032395)	11	8	.30	+	27.03	3.45E-05
+MHC class II protein complex binding (GO:0023026)	16	6	.43	+	13.94	4.58E-02
+MHC protein complex binding (GO:0023023)	20	7	.54	+	13.01	1.28E-02
+chemokine activity (GO:0008009)	49	10	1.32	+	7.58	7.77E-03
+chemokine receptor binding (GO:0042379)	66	11	1.78	+	6.19	1.41E-02
+potassium channel activity (GO:0005267)	126	15	3.39	+	4.42	1.28E-02
+potassium ion transmembrane transporter activity (GO:0015079)	162	17	4.36	+	3.90	1.43E-02
+cation channel activity (GO:0005261)	324	30	8.72	+	3.44	5.36E-05
+gated channel activity (GO:0022836)	349	29	9.39	+	3.09	7.78E-04
+ion channel activity (GO:0005216)	423	35	11.38	+	3.07	4.99E-05
+metal ion transmembrane transporter activity (GO:0046873)	448	36	12.06	+	2.99	6.24E-05
+substrate-specific channel activity (GO:0022838)	436	35	11.73	+	2.98	1.01E-04
+channel activity (GO:0015267)	465	37	12.51	+	2.96	5.03E-05
+ion gated channel activity (GO:0022839)	340	27	9.15	+	2.95	4.49E-03
+passive transmembrane transporter activity (GO:0022803)	466	37	12.54	+	2.95	5.30E-05
+G protein-coupled receptor binding (GO:0001664)	278	22	7.48	+	2.94	4.32E-02
+inorganic cation transmembrane transporter activity (GO:0022890)	613	41	16.50	+	2.49	7.99E-04
+cation transmembrane transporter activity (GO:0008324)	665	41	17.90	+	2.29	8.37E-03
+inorganic molecular entity transmembrane transporter activity (GO:0015318)	848	51	22.82	+	2.23	7.89E-04
+ion transmembrane transporter activity (GO:0015075)	910	53	24.49	+	2.16	1.16E-03
+transmembrane transporter activity (GO:0022857)	1082	62	29.12	+	2.13	1.62E-04
+transporter activity (GO:0005215)	1291	69	34.74	+	1.99	4.08E-04
+signaling receptor binding (GO:0005102)	1687	84	45.40	+	1.85	2.60E-04
+protein binding (GO:0005515)	11890	378	319.96	+	1.18	2.95E-03
+binding (GO:0005488)	15185	464	408.63	+	1.14	2.77E-04
+molecular_function (GO:0003674)	17706	515	476.47	+	1.08	8.18E-03
+Unclassified (UNCLASSIFIED)	3290	50	88.53	-	.56	0.00E00

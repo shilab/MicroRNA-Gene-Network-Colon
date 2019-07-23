@@ -1,0 +1,32 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	8749
+GO biological process complete	Homo sapiens - REFLIST (20996)	upload_1 (572)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+neuron development (GO:0048666)	802	46	21.85	+	2.11	4.53E-02
+neuron differentiation (GO:0030182)	989	56	26.94	+	2.08	4.86E-03
+generation of neurons (GO:0048699)	1502	79	40.92	+	1.93	4.54E-04
+neurogenesis (GO:0022008)	1600	82	43.59	+	1.88	7.07E-04
+positive regulation of multicellular organismal process (GO:0051240)	1710	82	46.59	+	1.76	9.20E-03
+cell development (GO:0048468)	1597	76	43.51	+	1.75	3.15E-02
+anatomical structure morphogenesis (GO:0009653)	2096	98	57.10	+	1.72	2.11E-03
+nervous system development (GO:0007399)	2309	107	62.90	+	1.70	7.49E-04
+regulation of multicellular organismal process (GO:0051239)	3074	139	83.75	+	1.66	1.74E-05
+system development (GO:0048731)	4346	192	118.40	+	1.62	1.75E-08
+regulation of biological quality (GO:0065008)	3996	173	108.86	+	1.59	2.14E-06
+animal organ development (GO:0048513)	3126	131	85.16	+	1.54	5.03E-03
+multicellular organism development (GO:0007275)	4940	207	134.58	+	1.54	2.31E-07
+anatomical structure development (GO:0048856)	5320	216	144.93	+	1.49	9.99E-07
+developmental process (GO:0032502)	5664	227	154.31	+	1.47	8.85E-07
+multicellular organismal process (GO:0032501)	6866	244	187.05	+	1.30	9.06E-03
+Unclassified (UNCLASSIFIED)	3224	64	87.83	-	.73	0.00E00
+gene expression (GO:0010467)	2005	24	54.62	-	.44	2.47E-02
+nucleic acid metabolic process (GO:0090304)	2309	27	62.90	-	.43	2.16E-03

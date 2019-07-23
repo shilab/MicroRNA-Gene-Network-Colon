@@ -1,0 +1,37 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	8749
+GO biological process complete	Homo sapiens - REFLIST (20996)	upload_1 (691)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+cellular response to chemokine (GO:1990869)	88	15	2.90	+	5.18	8.09E-03
+response to chemokine (GO:1990868)	88	15	2.90	+	5.18	8.09E-03
+regulation of trans-synaptic signaling (GO:0099177)	432	36	14.22	+	2.53	1.20E-02
+modulation of chemical synaptic transmission (GO:0050804)	431	35	14.18	+	2.47	2.64E-02
+behavior (GO:0007610)	572	45	18.83	+	2.39	2.42E-03
+chemotaxis (GO:0006935)	538	40	17.71	+	2.26	4.67E-02
+regulation of cell projection organization (GO:0031344)	658	46	21.66	+	2.12	4.44E-02
+chemical homeostasis (GO:0048878)	1089	69	35.84	+	1.93	5.86E-03
+homeostatic process (GO:0042592)	1623	90	53.41	+	1.68	2.30E-02
+nervous system development (GO:0007399)	2309	122	75.99	+	1.61	2.69E-03
+regulation of multicellular organismal process (GO:0051239)	3074	152	101.17	+	1.50	3.35E-03
+regulation of biological quality (GO:0065008)	3996	196	131.51	+	1.49	5.45E-05
+regulation of signaling (GO:0023051)	3661	174	120.49	+	1.44	4.20E-03
+regulation of cell communication (GO:0010646)	3621	172	119.17	+	1.44	6.20E-03
+system development (GO:0048731)	4346	206	143.03	+	1.44	2.74E-04
+multicellular organism development (GO:0007275)	4940	223	162.58	+	1.37	2.34E-03
+anatomical structure development (GO:0048856)	5320	239	175.09	+	1.37	1.07E-03
+signaling (GO:0023052)	5293	233	174.20	+	1.34	8.55E-03
+multicellular organismal process (GO:0032501)	6866	302	225.97	+	1.34	3.14E-05
+developmental process (GO:0032502)	5664	248	186.41	+	1.33	3.88E-03
+cell communication (GO:0007154)	5401	233	177.75	+	1.31	3.77E-02
+regulation of biological process (GO:0050789)	11608	444	382.03	+	1.16	2.52E-02
+biological regulation (GO:0065007)	12296	469	404.67	+	1.16	7.43E-03
+Unclassified (UNCLASSIFIED)	3224	75	106.11	-	.71	0.00E00

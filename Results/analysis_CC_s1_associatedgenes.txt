@@ -1,0 +1,38 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1423
+GO cellular component complete	Homo sapiens - REFLIST (20996)	upload_1 (691)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+exocytic vesicle membrane (GO:0099501)	110	15	3.62	+	4.14	1.53E-02
+synaptic vesicle membrane (GO:0030672)	110	15	3.62	+	4.14	1.53E-02
+synaptic vesicle (GO:0008021)	196	22	6.45	+	3.41	2.86E-03
+exocytic vesicle (GO:0070382)	213	23	7.01	+	3.28	3.07E-03
+transport vesicle membrane (GO:0030658)	213	21	7.01	+	3.00	2.98E-02
+neuronal cell body (GO:0043025)	499	44	16.42	+	2.68	2.33E-05
+cell body (GO:0044297)	569	45	18.73	+	2.40	3.54E-04
+presynapse (GO:0098793)	495	39	16.29	+	2.39	2.81E-03
+extracellular matrix (GO:0031012)	503	36	16.55	+	2.17	4.34E-02
+somatodendritic compartment (GO:0036477)	826	58	27.18	+	2.13	3.11E-04
+cytoplasmic vesicle membrane (GO:0030659)	771	52	25.37	+	2.05	5.14E-03
+vesicle membrane (GO:0012506)	792	52	26.07	+	1.99	1.13E-02
+neuron projection (GO:0043005)	1322	85	43.51	+	1.95	1.52E-05
+synapse part (GO:0044456)	949	61	31.23	+	1.95	2.92E-03
+neuron part (GO:0097458)	1740	108	57.27	+	1.89	9.41E-07
+synapse (GO:0045202)	1193	70	39.26	+	1.78	9.52E-03
+intrinsic component of plasma membrane (GO:0031226)	1727	90	56.84	+	1.58	3.64E-02
+plasma membrane bounded cell projection (GO:0120025)	2111	106	69.48	+	1.53	3.26E-02
+plasma membrane part (GO:0044459)	2915	142	95.94	+	1.48	3.89E-03
+cell periphery (GO:0071944)	5786	265	190.42	+	1.39	2.48E-06
+plasma membrane (GO:0005886)	5667	255	186.51	+	1.37	3.49E-05
+intrinsic component of membrane (GO:0031224)	5929	250	195.13	+	1.28	1.39E-02
+membrane part (GO:0044425)	7228	297	237.88	+	1.25	7.29E-03
+membrane (GO:0016020)	9822	380	323.25	+	1.18	3.34E-02
+Unclassified (UNCLASSIFIED)	2169	40	71.38	-	.56	0.00E00

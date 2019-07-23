@@ -1,0 +1,49 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	8749
+GO biological process complete	Homo sapiens - REFLIST (20996)	upload_1 (1232)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+neurotransmitter transport (GO:0006836)	175	29	10.27	+	2.82	2.64E-02
+inflammatory response (GO:0006954)	480	59	28.17	+	2.09	6.68E-03
+trans-synaptic signaling (GO:0099537)	428	52	25.11	+	2.07	3.54E-02
+cell-cell adhesion (GO:0098609)	494	59	28.99	+	2.04	1.53E-02
+regulation of signaling receptor activity (GO:0010469)	584	69	34.27	+	2.01	2.81E-03
+cell-cell signaling (GO:0007267)	1089	123	63.90	+	1.92	5.44E-07
+biological adhesion (GO:0022610)	922	92	54.10	+	1.70	2.63E-02
+cell adhesion (GO:0007155)	916	91	53.75	+	1.69	3.48E-02
+response to oxygen-containing compound (GO:1901700)	1514	144	88.84	+	1.62	4.55E-04
+neurogenesis (GO:0022008)	1600	142	93.88	+	1.51	2.20E-02
+regulation of cell population proliferation (GO:0042127)	1604	142	94.12	+	1.51	2.87E-02
+nervous system development (GO:0007399)	2309	202	135.49	+	1.49	2.77E-04
+anatomical structure morphogenesis (GO:0009653)	2096	177	122.99	+	1.44	2.18E-02
+response to organic substance (GO:0010033)	2921	242	171.40	+	1.41	7.83E-04
+system development (GO:0048731)	4346	354	255.01	+	1.39	7.86E-07
+cell surface receptor signaling pathway (GO:0007166)	2432	198	142.70	+	1.39	4.69E-02
+regulation of biological quality (GO:0065008)	3996	324	234.48	+	1.38	1.51E-05
+animal organ development (GO:0048513)	3126	253	183.43	+	1.38	2.17E-03
+cellular response to chemical stimulus (GO:0070887)	2820	227	165.47	+	1.37	1.83E-02
+regulation of multicellular organismal process (GO:0051239)	3074	246	180.38	+	1.36	8.11E-03
+multicellular organism development (GO:0007275)	4940	387	289.87	+	1.34	7.80E-06
+regulation of cell communication (GO:0010646)	3621	281	212.47	+	1.32	1.21E-02
+regulation of signaling (GO:0023051)	3661	283	214.82	+	1.32	1.62E-02
+anatomical structure development (GO:0048856)	5320	411	312.17	+	1.32	1.04E-05
+developmental process (GO:0032502)	5664	430	332.35	+	1.29	2.69E-05
+regulation of response to stimulus (GO:0048583)	4375	326	256.72	+	1.27	4.33E-02
+signaling (GO:0023052)	5293	386	310.58	+	1.24	2.52E-02
+multicellular organismal process (GO:0032501)	6866	496	402.88	+	1.23	5.94E-04
+cellular process (GO:0009987)	14424	932	846.37	+	1.10	1.65E-03
+biological_process (GO:0008150)	17772	1105	1042.82	+	1.06	4.80E-03
+Unclassified (UNCLASSIFIED)	3224	127	189.18	-	.67	0.00E00
+detection of chemical stimulus (GO:0009593)	518	6	30.40	-	.20	1.75E-03
+sensory perception of chemical stimulus (GO:0007606)	534	6	31.33	-	.19	8.79E-04
+detection of stimulus involved in sensory perception (GO:0050906)	538	6	31.57	-	.19	9.18E-04
+sensory perception of smell (GO:0007608)	462	2	27.11	-	.07	1.65E-05
+detection of chemical stimulus involved in sensory perception (GO:0050907)	482	2	28.28	-	.07	5.19E-06

@@ -1,0 +1,64 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1423
+GO cellular component complete	Homo sapiens - REFLIST (20996)	upload_1 (565)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+MHC class II protein complex (GO:0042613)	19	13	.51	+	25.43	7.51E-10
+MHC protein complex (GO:0042611)	28	13	.75	+	17.25	3.07E-08
+integral component of lumenal side of endoplasmic reticulum membrane (GO:0071556)	29	10	.78	+	12.81	6.44E-05
+lumenal side of endoplasmic reticulum membrane (GO:0098553)	29	10	.78	+	12.81	6.44E-05
+clathrin-coated endocytic vesicle membrane (GO:0030669)	45	11	1.21	+	9.08	2.64E-04
+ER to Golgi transport vesicle membrane (GO:0012507)	62	12	1.67	+	7.19	6.64E-04
+clathrin-coated endocytic vesicle (GO:0045334)	64	12	1.72	+	6.97	8.95E-04
+postsynaptic density membrane (GO:0098839)	80	11	2.15	+	5.11	3.67E-02
+COPII-coated ER to Golgi transport vesicle (GO:0030134)	97	13	2.61	+	4.98	8.86E-03
+postsynaptic specialization membrane (GO:0099634)	107	14	2.88	+	4.86	5.05E-03
+potassium channel complex (GO:0034705)	100	13	2.69	+	4.83	1.19E-02
+Golgi-associated vesicle membrane (GO:0030660)	113	13	3.04	+	4.28	3.90E-02
+clathrin-coated vesicle membrane (GO:0030665)	115	13	3.09	+	4.20	4.61E-02
+cation channel complex (GO:0034703)	225	22	6.05	+	3.63	9.34E-04
+plasma membrane protein complex (GO:0098797)	589	53	15.85	+	3.34	2.29E-10
+postsynaptic membrane (GO:0045211)	331	28	8.91	+	3.14	4.57E-04
+transmembrane transporter complex (GO:1902495)	334	28	8.99	+	3.12	5.42E-04
+transporter complex (GO:1990351)	342	28	9.20	+	3.04	8.41E-04
+ion channel complex (GO:0034702)	309	24	8.32	+	2.89	1.23E-02
+synaptic membrane (GO:0097060)	440	33	11.84	+	2.79	5.42E-04
+axon part (GO:0033267)	380	27	10.23	+	2.64	1.56E-02
+neuronal cell body (GO:0043025)	499	34	13.43	+	2.53	3.60E-03
+postsynapse (GO:0098794)	622	42	16.74	+	2.51	2.35E-04
+cell body (GO:0044297)	569	38	15.31	+	2.48	1.19E-03
+somatodendritic compartment (GO:0036477)	826	52	22.23	+	2.34	7.80E-05
+axon (GO:0030424)	610	37	16.42	+	2.25	1.89E-02
+integral component of plasma membrane (GO:0005887)	1647	99	44.32	+	2.23	2.57E-10
+side of membrane (GO:0098552)	604	36	16.25	+	2.21	3.10E-02
+cell surface (GO:0009986)	909	54	24.46	+	2.21	2.06E-04
+dendrite (GO:0030425)	590	35	15.88	+	2.20	4.45E-02
+dendritic tree (GO:0097447)	592	35	15.93	+	2.20	4.62E-02
+intrinsic component of plasma membrane (GO:0031226)	1727	101	46.47	+	2.17	8.32E-10
+synapse (GO:0045202)	1193	68	32.10	+	2.12	2.28E-05
+neuron projection (GO:0043005)	1322	75	35.57	+	2.11	4.66E-06
+synapse part (GO:0044456)	949	53	25.54	+	2.08	1.83E-03
+neuron part (GO:0097458)	1740	97	46.82	+	2.07	3.19E-08
+plasma membrane region (GO:0098590)	1194	65	32.13	+	2.02	3.20E-04
+plasma membrane part (GO:0044459)	2915	155	78.44	+	1.98	1.93E-13
+membrane protein complex (GO:0098796)	1199	62	32.26	+	1.92	2.49E-03
+plasma membrane bounded cell projection (GO:0120025)	2111	92	56.81	+	1.62	8.43E-03
+cell projection (GO:0042995)	2181	93	58.69	+	1.58	2.10E-02
+extracellular organelle (GO:0043230)	2119	90	57.02	+	1.58	3.14E-02
+extracellular region part (GO:0044421)	3529	145	94.96	+	1.53	2.22E-04
+extracellular space (GO:0005615)	3335	134	89.74	+	1.49	3.27E-03
+vesicle (GO:0031982)	3812	151	102.58	+	1.47	1.20E-03
+plasma membrane (GO:0005886)	5667	219	152.50	+	1.44	3.40E-06
+cell periphery (GO:0071944)	5786	223	155.70	+	1.43	2.42E-06
+extracellular region (GO:0005576)	4343	162	116.87	+	1.39	1.39E-02
+membrane part (GO:0044425)	7228	244	194.50	+	1.25	3.45E-02
+cellular_component (GO:0005575)	18827	537	506.63	+	1.06	1.12E-02
+Unclassified (UNCLASSIFIED)	2169	28	58.37	-	.48	0.00E00

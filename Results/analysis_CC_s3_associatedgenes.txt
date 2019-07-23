@@ -1,0 +1,26 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	1423
+GO cellular component complete	Homo sapiens - REFLIST (20996)	upload_1 (572)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+intrinsic component of plasma membrane (GO:0031226)	1727	86	47.05	+	1.83	1.48E-04
+integral component of plasma membrane (GO:0005887)	1647	81	44.87	+	1.81	6.44E-04
+plasma membrane part (GO:0044459)	2915	132	79.41	+	1.66	8.04E-06
+extracellular region (GO:0005576)	4343	175	118.32	+	1.48	5.50E-05
+extracellular space (GO:0005615)	3335	134	90.86	+	1.47	5.18E-03
+extracellular region part (GO:0044421)	3529	140	96.14	+	1.46	6.32E-03
+plasma membrane (GO:0005886)	5667	215	154.39	+	1.39	7.32E-05
+cell periphery (GO:0071944)	5786	219	157.63	+	1.39	6.67E-05
+intrinsic component of membrane (GO:0031224)	5929	211	161.53	+	1.31	1.38E-02
+membrane part (GO:0044425)	7228	247	196.91	+	1.25	2.64E-02
+membrane (GO:0016020)	9822	327	267.58	+	1.22	1.40E-03
+cellular_component (GO:0005575)	18827	543	512.91	+	1.06	1.75E-02
+Unclassified (UNCLASSIFIED)	2169	29	59.09	-	.49	0.00E00

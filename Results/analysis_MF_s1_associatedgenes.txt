@@ -1,0 +1,20 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2783
+GO molecular function complete	Homo sapiens - REFLIST (20996)	upload_1 (691)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+sodium ion transmembrane transporter activity (GO:0015081)	151	18	4.97	+	3.62	2.23E-02
+gated channel activity (GO:0022836)	349	29	11.49	+	2.52	4.88E-02
+metal ion transmembrane transporter activity (GO:0046873)	448	36	14.74	+	2.44	7.33E-03
+calcium ion binding (GO:0005509)	713	49	23.47	+	2.09	1.18E-02
+binding (GO:0005488)	15185	557	499.75	+	1.11	2.49E-03
+molecular_function (GO:0003674)	17706	626	582.72	+	1.07	8.30E-03
+Unclassified (UNCLASSIFIED)	3290	65	108.28	-	.60	0.00E00

@@ -1,0 +1,92 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	8749
+GO biological process complete	Homo sapiens - REFLIST (20996)	upload_1 (565)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+antimicrobial humoral immune response mediated by antimicrobial peptide (GO:0061844)	66	11	1.78	+	6.19	4.44E-02
+antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886)	98	16	2.64	+	6.07	4.22E-04
+antigen processing and presentation of peptide antigen via MHC class II (GO:0002495)	99	16	2.66	+	6.01	4.78E-04
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II (GO:0002504)	101	16	2.72	+	5.89	6.12E-04
+response to interferon-gamma (GO:0034341)	182	24	4.90	+	4.90	9.52E-06
+cellular response to interferon-gamma (GO:0071346)	160	20	4.31	+	4.65	5.21E-04
+antigen processing and presentation of exogenous antigen (GO:0019884)	182	19	4.90	+	3.88	1.36E-02
+antigen processing and presentation of exogenous peptide antigen (GO:0002478)	175	18	4.71	+	3.82	3.10E-02
+cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742)	257	23	6.92	+	3.33	1.32E-02
+cellular metal ion homeostasis (GO:0006875)	548	42	14.75	+	2.85	4.66E-05
+metal ion transport (GO:0030001)	637	48	17.14	+	2.80	6.04E-06
+divalent inorganic cation homeostasis (GO:0072507)	480	36	12.92	+	2.79	9.79E-04
+cellular divalent inorganic cation homeostasis (GO:0072503)	457	34	12.30	+	2.76	2.64E-03
+metal ion homeostasis (GO:0055065)	620	46	16.68	+	2.76	2.20E-05
+cellular cation homeostasis (GO:0030003)	622	46	16.74	+	2.75	2.41E-05
+cellular ion homeostasis (GO:0006873)	635	46	17.09	+	2.69	4.40E-05
+cation homeostasis (GO:0055080)	697	50	18.76	+	2.67	1.24E-05
+inorganic cation transmembrane transport (GO:0098662)	567	40	15.26	+	2.62	8.86E-04
+inorganic ion homeostasis (GO:0098771)	709	50	19.08	+	2.62	3.18E-05
+calcium ion homeostasis (GO:0055074)	440	31	11.84	+	2.62	2.54E-02
+cytokine-mediated signaling pathway (GO:0019221)	659	46	17.73	+	2.59	1.75E-04
+ion homeostasis (GO:0050801)	776	54	20.88	+	2.59	8.78E-06
+inflammatory response (GO:0006954)	480	33	12.92	+	2.55	2.90E-02
+regulation of ion transmembrane transport (GO:0034765)	467	32	12.57	+	2.55	4.36E-02
+inorganic ion transmembrane transport (GO:0098660)	652	44	17.55	+	2.51	7.20E-04
+cell-cell adhesion (GO:0098609)	494	33	13.29	+	2.48	4.17E-02
+response to inorganic substance (GO:0010035)	527	35	14.18	+	2.47	2.29E-02
+cation transmembrane transport (GO:0098655)	618	41	16.63	+	2.47	3.00E-03
+ion transmembrane transport (GO:0034220)	905	59	24.35	+	2.42	1.28E-05
+cellular chemical homeostasis (GO:0055082)	728	47	19.59	+	2.40	9.65E-04
+cation transport (GO:0006812)	839	51	22.58	+	2.26	2.17E-03
+response to drug (GO:0042493)	964	58	25.94	+	2.24	2.79E-04
+cellular response to cytokine stimulus (GO:0071345)	984	59	26.48	+	2.23	2.27E-04
+neuron development (GO:0048666)	802	48	21.58	+	2.22	6.99E-03
+innate immune response (GO:0045087)	744	44	20.02	+	2.20	2.92E-02
+transmembrane transport (GO:0055085)	1290	75	34.71	+	2.16	1.04E-05
+response to cytokine (GO:0034097)	1072	62	28.85	+	2.15	4.16E-04
+cell-cell signaling (GO:0007267)	1089	62	29.30	+	2.12	6.00E-04
+chemical homeostasis (GO:0048878)	1089	62	29.30	+	2.12	6.00E-04
+ion transport (GO:0006811)	1346	76	36.22	+	2.10	2.41E-05
+cellular homeostasis (GO:0019725)	892	50	24.00	+	2.08	2.55E-02
+defense response (GO:0006952)	1310	71	35.25	+	2.01	5.84E-04
+neuron differentiation (GO:0030182)	989	53	26.61	+	1.99	4.82E-02
+positive regulation of immune system process (GO:0002684)	1125	59	30.27	+	1.95	1.86E-02
+cell development (GO:0048468)	1597	80	42.98	+	1.86	1.43E-03
+homeostatic process (GO:0042592)	1623	79	43.67	+	1.81	6.22E-03
+regulation of immune system process (GO:0002682)	1621	78	43.62	+	1.79	9.59E-03
+cellular response to organic substance (GO:0071310)	2305	109	62.03	+	1.76	8.84E-05
+neurogenesis (GO:0022008)	1600	75	43.06	+	1.74	4.09E-02
+response to organic substance (GO:0010033)	2921	136	78.60	+	1.73	1.82E-06
+positive regulation of response to stimulus (GO:0048584)	2393	110	64.40	+	1.71	3.31E-04
+nervous system development (GO:0007399)	2309	106	62.13	+	1.71	8.95E-04
+cell surface receptor signaling pathway (GO:0007166)	2432	111	65.44	+	1.70	4.11E-04
+regulation of biological quality (GO:0065008)	3996	182	107.53	+	1.69	2.34E-09
+anatomical structure morphogenesis (GO:0009653)	2096	95	56.40	+	1.68	7.92E-03
+cellular response to chemical stimulus (GO:0070887)	2820	127	75.89	+	1.67	7.35E-05
+regulation of multicellular organismal development (GO:2000026)	1999	89	53.79	+	1.65	4.10E-02
+regulation of multicellular organismal process (GO:0051239)	3074	134	82.72	+	1.62	1.73E-04
+regulation of signaling (GO:0023051)	3661	155	98.52	+	1.57	5.93E-05
+system development (GO:0048731)	4346	178	116.95	+	1.52	3.09E-05
+regulation of cell communication (GO:0010646)	3621	148	97.44	+	1.52	1.33E-03
+response to chemical (GO:0042221)	4386	178	118.03	+	1.51	4.99E-05
+multicellular organism development (GO:0007275)	4940	199	132.93	+	1.50	6.94E-06
+cell differentiation (GO:0030154)	3629	146	97.66	+	1.50	4.53E-03
+cellular developmental process (GO:0048869)	3721	148	100.13	+	1.48	7.75E-03
+anatomical structure development (GO:0048856)	5320	209	143.16	+	1.46	1.38E-05
+signaling (GO:0023052)	5293	206	142.43	+	1.45	5.63E-05
+regulation of response to stimulus (GO:0048583)	4375	170	117.73	+	1.44	3.06E-03
+developmental process (GO:0032502)	5664	219	152.42	+	1.44	2.07E-05
+cell communication (GO:0007154)	5401	207	145.34	+	1.42	1.69E-04
+multicellular organismal process (GO:0032501)	6866	254	184.76	+	1.37	2.11E-05
+positive regulation of biological process (GO:0048518)	6091	225	163.91	+	1.37	5.49E-04
+signal transduction (GO:0007165)	4961	182	133.50	+	1.36	4.32E-02
+response to stimulus (GO:0050896)	8341	303	224.46	+	1.35	4.62E-07
+cellular response to stimulus (GO:0051716)	6555	231	176.39	+	1.31	1.49E-02
+regulation of biological process (GO:0050789)	11608	376	312.37	+	1.20	8.11E-04
+biological regulation (GO:0065007)	12296	397	330.88	+	1.20	1.36E-04
+biological_process (GO:0008150)	17772	516	478.24	+	1.08	3.73E-02
+Unclassified (UNCLASSIFIED)	3224	49	86.76	-	.56	0.00E00

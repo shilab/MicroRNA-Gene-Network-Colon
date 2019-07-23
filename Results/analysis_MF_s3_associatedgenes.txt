@@ -1,0 +1,16 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20181113)
+Annotation Version and Release Date:	GO Ontology database  Released 2019-01-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	BONFERRONI
+Bonferroni count:	2783
+GO molecular function complete	Homo sapiens - REFLIST (20996)	upload_1 (572)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (P-value)
+calcium ion binding (GO:0005509)	713	41	19.42	+	2.11	4.02E-02
+molecular function regulator (GO:0098772)	1923	85	52.39	+	1.62	4.14E-02
+Unclassified (UNCLASSIFIED)	3290	62	89.63	-	.69	0.00E00
