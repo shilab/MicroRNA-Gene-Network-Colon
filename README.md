@@ -2,7 +2,7 @@
 
 The MicroRNA-Gene-Network-Colon provides a new strategy to for integrating microRNA andgene expression profiles together with clinical information toward understandingthe regulation of colon cancer. 
 
-Jia Wen, Benika Hall and Xinghua Shi. A Network View of MicroRNA and GeneInteractions in Different Pathological Stages ofColon Cancer. BMC Medical Genomics 2018 (In submit).
+Jia Wen, Benika Hall and Xinghua Shi. A Network View of MicroRNA and GeneInteractions in Different Pathological Stages ofColon Cancer. BMC Medical Genomics 2019 (In press).
 
 The bc_matrix.txt includes the miRNA expression data and the pathological data.
 
